@@ -6,7 +6,7 @@
 		</form>  --> 
 		测试
 		clone测试
-		<input />
+		<input value="vuetest submit"/>
 		<input type="file" name="file"/>
 		<input type="submit" value="上传" @click="upload"/>
   </div>
